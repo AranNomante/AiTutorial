@@ -1,6 +1,8 @@
 package com.genetic;
 
 class GeneticAlgorithm {
+    //change the fields to your desire...
+    //try to understand the algorithm though
     static final int POPULATION_SIZE=8;
     static final int[] TARGET_CHROMOSOME={1,1,0,1,0,0,1,1,1,0};
     private static final double MUTATION_RATE=0.01;
